@@ -1,0 +1,15 @@
+{
+	"name": "testgitreposaks",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d313122-96ca-47a5-b037-af62d6e711fb",
+		"tenantId": "56cb28e8-725f-420a-b873-97fb89182ff2"
+	}
+}
